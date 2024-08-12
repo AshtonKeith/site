@@ -1,12 +1,17 @@
 ---
 layout: default
-title: "Home"
+title: "Ashton Keith's Homepage"
 permalink: /main
 ---
 
-# Home
+# Ashton Keith's Homepage
 
-This is the home page for the website of Ashton Keith
+- [Personal Email](mailto:xxphignewtonxx@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/ashton-keith-2b7937198)
+- [Facebook](https://www.facebook.com/ashton.keith.9/)
+- [Instagram](https://www.instagram.com/phignewton1/)
+
+I'm current a PhD student and teaching assistant at Purdue University. I'm currently do research in algebraic topology.
 
 ## Subsection
 
