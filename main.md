@@ -31,9 +31,9 @@ A couple of books Ive enjoyed
 
 <details>
 <summary>CV</summary>
-<!---->
 
-_Eduction_
+
+_Education_
 
 purdue university
 - phd in mathematics
