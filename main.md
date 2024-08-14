@@ -21,7 +21,7 @@ I'm current a PhD student and teaching assistant at Purdue University. I'm curre
 
 CV
 --
-
+  
 
 _Eduction_
 
@@ -36,7 +36,7 @@ binghamton university
 franklin academy high school
 - regents diploma with advanced designation and mastery in math and science
 - graduated valedictorian 2019
-
+  
 
 _Work Experience_
 
@@ -60,7 +60,7 @@ usamts grader
 - october 2020 - january 2023
 - contracted by the art of problem solving foundation
 - graded submissions for an online, proof-based high school competition
-
+  
 
 _Research Experience_
 
@@ -72,7 +72,7 @@ first year research immersion program @ binghamton
 - [Presentation 1](## "Link to be added later")
 - [Presentation 2](## "Link to be added later")
 - [Research Paper](## "Link to be added later")
-
+  
 
 _Leadership Experience_
 
@@ -91,7 +91,7 @@ math club @ binghamton
 - presented and prepared other undergraduates to present on math topics of interest
 - advertised research opportunities to undergraduates
 - wrote reports on student-teacher evaluations for department of mathematics chair decisions
-
+  
 
 _Awards and Honors_
 - phi beta kappa honor society member
@@ -104,7 +104,7 @@ _Awards and Honors_
 - helen p beard award for excellence in mathematics @ binghamton
 - yacura award
 - nys merit award
-
+  
 
 _Relevant Courses and Cerification_
 - wilderness and remote location first aid
@@ -114,7 +114,7 @@ _Relevant Courses and Cerification_
 - «research in smart energy» chem 211 and phys 335 @ binghamton
 - «social research methods» soc 305
 - «intro to graph theory» math 510
-
+  
 
 _Relevant Skills_
 - elementary proficiency in french
