@@ -31,6 +31,8 @@ A couple of books Ive enjoyed
 
 <details>
 <summary>CV</summary>
+<!---->
+
 _Eduction_
 
 purdue university
