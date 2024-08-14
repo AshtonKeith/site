@@ -29,8 +29,8 @@ A couple of books Ive enjoyed
 
 ---
 
-<details open>
-<summary><h2>CV</h2></summary>
+CV
+--
 
 _Education_
 
@@ -134,8 +134,6 @@ _Relevant Courses and Cerification_
 _Relevant Skills_
 - elementary proficiency in french
 - experience with latex, java, python, and scala
-
-</details>
 
 ---
 
