@@ -29,8 +29,8 @@ A couple of books Ive enjoyed
 
 ---
 
-<details>
-<summary>CV</summary>
+<details open>
+<summary><h2>CV</h2></summary>
 
 _Education_
 
