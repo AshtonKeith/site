@@ -13,10 +13,13 @@ Ashton Keith's Homepage
 - [Facebook](https://www.facebook.com/ashton.keith.9/)
 - [Instagram](https://www.instagram.com/phignewton1/)
 
-I'm current a PhD student and teaching assistant at Purdue University. I'm currently do research in algebraic topology.
+I'm current a PhD student and teaching assistant at Purdue University. I'm currently do research in algebraic topology. I also enjoy bowling on the weekends.
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 CV
 --
+
 
 _Eduction_
 
@@ -31,6 +34,7 @@ binghamton university
 franklin academy high school
 - regents diploma with advanced designation and mastery in math and science
 - graduated valedictorian 2019
+
 
 _Work Experience_
 
@@ -55,6 +59,7 @@ usamts grader
 - contracted by the art of problem solving foundation
 - graded submissions for an online, proof-based high school competition
 
+
 _Research Experience_
 
 first year research immersion program @ binghamton
@@ -65,6 +70,7 @@ first year research immersion program @ binghamton
 - [Presentation 1](## "Link to be added later")
 - [Presentation 2](## "Link to be added later")
 - [Research Paper](## "Link to be added later")
+
 
 _Leadership Experience_
 
@@ -84,21 +90,32 @@ math club @ binghamton
 - advertised research opportunities to undergraduates
 - wrote reports on student-teacher evaluations for department of mathematics chair decisions
 
+
 _Awards and Honors_
 - phi beta kappa honor society member
 - pi mu epsilon honor society member
 - putnam exam honorable mention
- - scores: 41, 50
+	- scores: 41, 50
 
 - morris gitlitz memorial scholarship @ binghamton
- - awarded for a broad range of interests and extracurricular involvement
+	- awarded for a broad range of interests and extracurricular involvement
 - helen p beard award for excellence in mathematics @ binghamton
 - yacura award
 - nys merit award
 
-_Relevant Courses and Cerification_
-- 
 
-_Relevant Skills
+_Relevant Courses and Cerification_
+- wilderness and remote location first aid
+	- certified march 2023 - march 2025
+	- administered by solo wilderness medical school
+
+- «research in smart energy» chem 211 and phys 335 @ binghamton
+- «social research methods» soc 305
+- «intro to graph theory» math 510
+
+
+_Relevant Skills_
 - elementary proficiency in french
 - experience with latex, java, python, and scala
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
