@@ -17,7 +17,7 @@ Ashton Keith's Homepage
 - [Instagram](https://www.instagram.com/phignewton1/)
 - [GitHub](https://github.com/AshtonKeith)  
 
-im current a phd student and teaching assistant at purdue university  im currently do research in algebraic topology  i also enjoy bowling on the weekends
+im current a phd student and teaching assistant at purdue university &nbsp; im currently do research in algebraic topology  i also enjoy bowling on the weekends
 
 <!---->
 
