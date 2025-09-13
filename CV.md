@@ -99,4 +99,4 @@ _Relevant Courses and Cerification_
 
 _Relevant Skills_
 - elementary proficiency in french
-- experience with latex, java, python, and scala
+- experience with latex, java, python
