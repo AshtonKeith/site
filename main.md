@@ -31,16 +31,13 @@ A couple of books Ive enjoyed
 
 <details open="">
 	<summary>## CV</summary>
+
 --
 
-<em>Education</em>
+_Education_
 
-<p>
-	Purdue University
-	<ul>
-		<li>PhD in Mathematics</li>
-	</ul>
-</p>
+Purdue University
+- PhD in Mathematics
 
 binghamton university
 - bachelor of science in mathematics
