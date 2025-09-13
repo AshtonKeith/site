@@ -19,21 +19,12 @@ Ashton Keith's Homepage
 
 I'm currently a phd student and teaching assistant at purdue university. I research in homotopy theory, string topology, and skein theory. I also enjoy bowling on the weekends.
 
-<!---->
-
-A couple of books Ive enjoyed
-- [Seeing Like a State](https://yalebooks.yale.edu/book/9780300078152/seeing-like-a-state/ "Seeing Like a State: How Certain Schemes to Improve the Human Condition Have Failed") by James C Scott
-- [The Dispossessed](https://www.ursulakleguin.com/dispossessed "The Dispossessed: An Ambiguous Uptopia") by Ursula K LeGuin
-- [Weapons of Math Destruction](https://www.penguinrandomhouse.com/books/241363/weapons-of-math-destruction-by-cathy-oneil/ "Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy") by Cathy O'Neil
-- [The Mathematical Experience](https://archive.org/details/mathematicalexpe0000davi/page/n5/mode/2up "The Mathematical Experience") and [Descartes Dream](https://archive.org/details/descartesdreamwo0000davi "Descartes' Dream: The World According to Mathematics") by Philip J Davis and Reuben Hersh  
-
 ---
 
 <details>
 
 <summary><b>CV</b></summary>
 
---
 
 _Education_
 
@@ -137,6 +128,7 @@ _Relevant Courses and Cerification_
 _Relevant Skills_
 - elementary proficiency in french
 - experience with latex, java, python, and scala
+
 
 </details>
 
