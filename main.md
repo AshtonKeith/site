@@ -17,7 +17,7 @@ Ashton Keith's Homepage
 - [Instagram](https://www.instagram.com/phignewton1/)
 - [GitHub](https://github.com/AshtonKeith)  
 
-im current a phd student and teaching assistant at purdue university &nbsp; im currently do research in algebraic topology  i also enjoy bowling on the weekends
+I'm currently a phd student and teaching assistant at purdue university. I research in homotopy theory, string topology, and skein theory. I also enjoy bowling on the weekends.
 
 <!---->
 
@@ -33,10 +33,14 @@ A couple of books Ive enjoyed
 	<summary>## CV</summary>
 --
 
-_Education_
+<em>Education</em>
 
-purdue university
-- phd in mathematics
+<p>
+	Purdue University
+	<ul>
+		<li>PhD in Mathematics</li>
+	</ul>
+</p>
 
 binghamton university
 - bachelor of science in mathematics
