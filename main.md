@@ -132,11 +132,11 @@ _Relevant Courses and Cerification_
 
 <!---->
 
-</details>
-
 _Relevant Skills_
 - elementary proficiency in french
 - experience with latex, java, python, and scala
+
+</details>
 
 ---
 
