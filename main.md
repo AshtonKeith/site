@@ -29,7 +29,8 @@ A couple of books Ive enjoyed
 
 ---
 
-CV
+<details open="">
+	<summary>## CV</summary>
 --
 
 _Education_
@@ -130,6 +131,8 @@ _Relevant Courses and Cerification_
 - «intro to graph theory» math 510
 
 <!---->
+
+</details>
 
 _Relevant Skills_
 - elementary proficiency in french
