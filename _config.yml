@@ -3,6 +3,6 @@ author:
   name: Ashton Keith
   email: xxphignewtonxx@gmail.com
 description: The website for Ashton Keith
-theme: minima
+theme: jekyll-theme-minima
 
 markdown: kramdown
